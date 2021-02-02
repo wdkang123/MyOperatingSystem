@@ -1,5 +1,5 @@
-
 *.o
+*.bat
 .DS_Store
 
 # Compiled class file
