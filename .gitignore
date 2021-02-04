@@ -1,3 +1,8 @@
+boot.bat
+ckernel_u.asm
+ckernel.asm
+kernel.asm
+kernel.bat
 *.o
 *.bat
 .DS_Store
