@@ -1,0 +1,36 @@
+
+- NASM Map file ---------------------------------------------------------------
+
+Source file:  api_call.asm
+Output file:  hlt.bat
+
+-- Symbols --------------------------------------------------------------------
+
+---- Section .s32 -------------------------------------------------------------
+
+Real              Virtual           Name
+               C                 C  api_putchar
+              18                18  api_putstr
+              26                26  api_openwin
+              48                48  api_putstrwin
+              70                70  api_boxfilwin
+              98                98  api_point
+              B6                B6  api_refreshwin
+              D8                D8  api_linewin
+             100               100  api_closewin
+             10E               10E  api_getkey
+             11A               11A  api_alloctimer
+             122               122  api_inittimer
+             134               134  api_settimer
+             146               146  api_freetimer
+             154               154  rand
+             17B               17B  intToStr
+             1E1               1E1  main
+             229               229  ?_001
+             235               235  ?_002
+             2D7               2D7  ?_003
+             2E5               2E5  ?_004
+             30C               30C  ?_005
+             33C               33C  ran
+             340               340  ?_006
+
