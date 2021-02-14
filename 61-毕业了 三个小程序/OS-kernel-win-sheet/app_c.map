@@ -1,0 +1,28 @@
+
+- NASM Map file ---------------------------------------------------------------
+
+Source file:  crack_call.asm
+Output file:  crack.bat
+
+-- Symbols --------------------------------------------------------------------
+
+---- Section .s32 -------------------------------------------------------------
+
+Real              Virtual           Name
+              12                12  api_putchar
+              1E                1E  api_putstr
+              2C                2C  api_openwin
+              4E                4E  api_putstrwin
+              76                76  api_boxfilwin
+              9E                9E  api_point
+              BC                BC  api_refreshwin
+              DE                DE  api_linewin
+             106               106  api_closewin
+             114               114  api_getkey
+             120               120  api_alloctimer
+             128               128  api_inittimer
+             13A               13A  api_settimer
+             14C               14C  api_freetimer
+             15A               15A  api_showstring
+             164               164  main
+
