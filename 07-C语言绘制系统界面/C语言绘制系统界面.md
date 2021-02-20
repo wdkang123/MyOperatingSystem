@@ -361,7 +361,7 @@ Load file kernel.bat to floppy with cylinder: 1 and sector:3
 
 这样我们就完成了在mac上进行编译
 
-而不用在乌班图上
+而不用在ubuntu上
 
 
 
@@ -369,7 +369,7 @@ Load file kernel.bat to floppy with cylinder: 1 and sector:3
 
 将img装载运行：
 
-【图片】
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/07-img01.png?raw=true)
 
 
 

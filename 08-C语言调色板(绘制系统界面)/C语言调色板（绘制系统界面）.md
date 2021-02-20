@@ -802,7 +802,7 @@ Load file kernel.bat to floppy with cylinder: 1 and sector:5
 
 装载运行
 
-【图片】
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/08-img01.png?raw=true)
 
 
 
