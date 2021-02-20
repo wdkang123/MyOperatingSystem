@@ -179,4 +179,4 @@ void console_task(struct SHEET *sheet) {
 
 # 3.编译和运行
 
-【图片】
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/38-img01.png?raw=true)

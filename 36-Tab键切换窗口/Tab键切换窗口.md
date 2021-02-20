@@ -145,4 +145,4 @@ void make_wtitle8(struct SHTCTL *shtctl, struct SHEET * sht,  char *title, char 
 
 # 3.编译运行
 
-[图片]
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/36-img01.png?raw=true)
