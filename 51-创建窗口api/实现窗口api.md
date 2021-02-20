@@ -9,3 +9,8 @@
 当我们在app.c里边调用的时候
 
 就可以直接创建窗口了
+
+
+
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/51-img01.png?raw=true)
+

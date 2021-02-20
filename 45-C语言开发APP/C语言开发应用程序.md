@@ -134,5 +134,5 @@ api_putchar:
 
 打印了如下的结果
 
-【图片】
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/45-img01.png?raw=true)
 

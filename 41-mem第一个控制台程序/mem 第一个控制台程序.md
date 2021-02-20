@@ -190,4 +190,4 @@ java
 
 img
 
-【图片】
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/41-img01.png?raw=true)

@@ -9,3 +9,7 @@
 使用crake命令
 
 这个时候 crake 被干掉了 说明没有破坏到别的程序和内核
+
+
+
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/59-img01.png?raw=true)
