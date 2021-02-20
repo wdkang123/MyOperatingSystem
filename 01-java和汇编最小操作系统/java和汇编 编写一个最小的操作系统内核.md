@@ -277,4 +277,4 @@ public class OperatingSystem {
 
 将其导入到VitrualBox中 运行
 
-[运行图片]
+![](https://github.com/wdkang123/MyOperatingSystem/blob/main/images/01-img01.png?raw=true)
